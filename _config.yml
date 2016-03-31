@@ -2,6 +2,7 @@ name: Uni
 favicon: null
 layout_spectrum: 0.4080840484239161
 typography_spectrum: 0.8718491811305285
+title: Uni
 cta:
   domain: null
   bucket: null
